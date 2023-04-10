@@ -1,7 +1,9 @@
 # 🍈 멜론 차트 API: melon-chart.py 
 ![melon](./image.png)
 
-melon-chart.py is a Python API that retrieves the TOP 100 information from the [Melon](https://www.melon.com/index.htm).
+melon-chart.py is a Python API that retrieves the TOP 100 information from the [Melon](https://www.melon.com/index.htm)
+
+국내 음원차트 멜론 실시간 TOP 100 차트를 불러오는 API입니다.
 
 ## Installation
 ```commandline
