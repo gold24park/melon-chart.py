@@ -1,4 +1,4 @@
-# melon-chart.py
+# 🍈 멜론 차트 API: melon-chart.py 
 ![melon](./image.png)
 
 melon-chart.py is a Python API that retrieves the TOP 100 information from the [Melon](https://www.melon.com/index.htm).
