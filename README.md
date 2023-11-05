@@ -14,7 +14,7 @@ pip install melon-chart.py
 The main usage of melon-chart.py is similar to [billboard.py](https://github.com/guoguo12/billboard-charts).
 ```commandline
 >>> from melon import *
->>> chart = ChartData(image_size=500)
+>>> chart = ChartData(imageSize=500)
 >>> print(chart[0].json())
 {
     "artist": "IVE (아이브)",
